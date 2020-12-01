@@ -1,5 +1,7 @@
 # Oceanic-Next.vim
 
+Make the normal text low contrast.
+
 Oceanic-Next.vim is a neovim theme inspired by [Oceanic Next for Sublime](https://github.com/voronianski/oceanic-next-color-scheme).
 It is not a direct port, but uses some colors from the sublime theme, that are fitted to work with neovim and vim8.
 
