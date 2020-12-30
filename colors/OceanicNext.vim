@@ -96,7 +96,7 @@ endfunction
   call s:hi('NonText',                    s:base03, '',       '',          '')
   call s:hi('Normal',                     s:base06, s:base00, '',          '')
   call s:hi('EndOfBuffer',                s:base05, s:base00, '',          '')
-  call s:hi('LineNr',                     s:base03, s:base00, '',          '')
+  call s:hi('LineNr',                     s:base04, s:base00, '',          '')
   call s:hi('SignColumn',                 s:base00, s:base00, '',          '')
   call s:hi('StatusLine',                 s:base01, s:base03, '',          '')
   call s:hi('StatusLineNC',               s:base03, s:base01, '',          '')
